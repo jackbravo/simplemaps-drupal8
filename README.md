@@ -36,6 +36,12 @@ drupal config:import --no-interaction
 drupal cr all
 ```
 
+And you can even create some demo content using the command:
+
+```
+drupal create:nodes
+```
+
 And you can now test your site with the php server using
 
 ```
