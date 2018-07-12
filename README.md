@@ -45,4 +45,3 @@ And go to: http://127.0.0.1:8088
 
 We are using the [drupal-composer](https://github.com/drupal-composer/drupal-project)
 project.
-this
