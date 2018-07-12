@@ -33,6 +33,7 @@ for his [simple blog](https://weknowinc.com/blog/how-install-drupal-8-existing-c
 
 ```
 drupal config:import --no-interaction
+drupal cr all
 ```
 
 And you can now test your site with the php server using
