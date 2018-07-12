@@ -1,0 +1,18 @@
+uuid: c327f80f-7880-46fa-9f90-fdb9b8fddae5
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.places
+id: node.places.title
+field_name: title
+entity_type: node
+bundle: places
+label: Name
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

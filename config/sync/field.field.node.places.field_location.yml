@@ -1,0 +1,22 @@
+uuid: 5acdfba3-8494-4c15-aa51-7190321a5e54
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_location
+    - node.type.places
+  module:
+    - geofield
+id: node.places.field_location
+field_name: field_location
+entity_type: node
+bundle: places
+label: Location
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  backend: geofield_backend_default
+field_type: geofield
